@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, local machine changes”
+  "Hello, changes to heroku copy”
 end
